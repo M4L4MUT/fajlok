@@ -1,0 +1,32 @@
+
+table{
+    border: 2px black;
+     background-color: rgb(25, 188, 238);
+     border-radius: 10px;
+     padding: 10px;
+     border-style: groove;
+     width: 80px;            }
+td, td{
+border: solid 1px ;
+}
+th {
+text-align: left;
+}
+td{
+padding-left: 5px;
+padding-top: 5px;
+padding-right: 10px;
+padding-bottom: 1px;
+border: 15px 10px 5px 3px solid brown;
+}
+#kiemelt{
+background-color: darkblue;
+
+}
+#bekezdések{
+color: green;
+}
+.parentDiv {  
+    display: flex; 
+    justify-content: center; 
+    align-items: center;} 
